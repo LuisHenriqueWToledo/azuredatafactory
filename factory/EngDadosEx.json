@@ -1,0 +1,9 @@
+{
+	"name": "EngDadosEx",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8beff8d8-309a-49db-a534-477ca062cc9b",
+		"tenantId": "ec359ba1-630b-4d2b-b833-c8e6d48f8059"
+	}
+}
